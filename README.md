@@ -1,7 +1,7 @@
 ## Nice to see you here! 
 I'm Mark Avvakumov, a Front-end developer with a passion for creating dynamic and user-friendly web applications.
 
-Take a look on my portfolio:
+Take a look at my portfolio:
 
 [![portfolio](https://img.shields.io/badge/-portfolio-%2300C7B7?style=for-the-badge&logo=Netlify&logoColor=white)](https://mark-avvakumov.netlify.app/)
 
@@ -14,7 +14,7 @@ Or contact me via:
 
 - Core technologies:
 
-![React.js](https://img.shields.io/badge/-REACT-000?style=flat-square&logo=react) ![Redux](https://img.shields.io/badge/-REDUX-000?style=flat-square&logo=redux&logoColor=764ABC) ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-000?style=flat-square&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=HTML5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3&logoColor=1572B6) ![Node.js logo](https://img.shields.io/badge/NODE.JS-black?&style=flat-square&logo=node.js&logoColor=339933)
+![React.js](https://img.shields.io/badge/-REACT-000?style=flat-square&logo=react) ![Redux](https://img.shields.io/badge/-REDUX-000?style=flat-square&logo=redux&logoColor=764ABC) ![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-000?style=flat-square&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-000?style=flat-square&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=HTML5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3&logoColor=1572B6) ![Node.js logo](https://img.shields.io/badge/NODE.JS-black?&style=flat-square&logo=node.js&logoColor=339933)
 
 - CSS preprocessors, frameworks and UI libraries
 
@@ -39,7 +39,6 @@ Or contact me via:
 ![Render](https://img.shields.io/badge/-RENDER-000?style=flat-square&logo=render&logoColor=46E3B7)
 
 ## 🎓 I'm going to learn: 
-![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-000?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Angular](https://img.shields.io/badge/-ANGULAR-000?style=flat-square&logo=Angular&logoColor=DD0031)
 ![Vue.js](https://img.shields.io/badge/-VUE.JS-000?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![Next.js](https://img.shields.io/badge/-NEXT.JS-000?style=flat-square&logo=nextdotjs&logoColor=fff)
