@@ -34,8 +34,5 @@ I'm a Front-end developer with a passion for creating dynamic and user-friendly 
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=flat-square&logo=netlify&logoColor=00C7B7)
 ![Render](https://img.shields.io/badge/-Render-000?style=flat-square&logo=render&logoColor=46E3B7)
 
-## 🎓 I'm going to learn: 
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff)
-
 ### Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hifly3082&show_icons=true&locale=en&layout=compact" alt="hifly3082" />
