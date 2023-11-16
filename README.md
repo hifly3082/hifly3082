@@ -18,6 +18,7 @@ I'm a Front-end developer with a passion for creating dynamic and user-friendly 
 ![Less](https://img.shields.io/badge/-Less-000?style=flat-square&logo=LESS&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-000?style=flat-square&logo=tailwind-css&logoColor=06B6D4)
 ![Material%20UI](https://img.shields.io/badge/-Material%20UI-000?style=flat-square&logo=mui&logoColor=007FFF)
+![Ant%Design](https://img.shields.io/badge/-Ant%20Design-000?style=flat-square&logo=ant-design&logoColor=1677ff)
 
 - Tools
   
