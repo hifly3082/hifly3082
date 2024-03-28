@@ -1,5 +1,6 @@
 ## Mark Avvakumov 
-I'm a Front-end developer with a passion for creating dynamic and user-friendly web applications.
+Experienced Frontend Developer with a focus on building engaging user interfaces. 
+Skilled in React, Redux, TypeScript, and SCSS, with a strong emphasis on code quality and unit testing.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mark-avvakumov)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:maavvakumov@gmail.com)
