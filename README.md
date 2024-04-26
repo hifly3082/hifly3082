@@ -4,7 +4,6 @@ Experienced Frontend Developer with a focus on building engaging user interfaces
 Skilled in React, Redux, TypeScript, and SCSS, strongly emphasising code quality and unit testing.
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:maavvakumov@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mark-avvakumov)
 
 ### My skills:
 
